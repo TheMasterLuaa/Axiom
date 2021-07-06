@@ -1,0 +1,16 @@
+temp/
+logs/
+__pycache__/
+.idea
+.ropeproject
+.settings
+*.log
+*.pyc
+*.py~
+*.pyo
+*.swp
+*.o
+*.c
+
+# resources
+*.meta
